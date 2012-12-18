@@ -1,5 +1,5 @@
 # This is YAML of preprocessing table. 
-# First entry is matchign regexp, if the raw CSV record matches, then
+# First entry is matching regexp, if the raw CSV record matches, then
 # the substitution (second entry) is applied.
 ---
 - 'm/AMC/'
